@@ -23,10 +23,10 @@
 ---
 
 ## 📂 Featured Projects
-- [HECVAT Vendorwise](link) – Capstone project applying the Higher Education Community Vendor Assessment Toolkit to vendor risk evaluation, built with Razor Pages, MySQL, and Azure  
-- [Debt Snowball Calculator](link) – A Python tool for financial planning and debt payoff visualization  
-- [Codecademy Practice Projects](link) – Learning exercises in Python & JavaScript  
-- [TryHackMe & HackTheBox Write-Ups](link) – Documenting cybersecurity labs and CTF challenges  
+- [HECVAT Vendorwise](https://github.com/JenniferLopez07/VendorWiseProject) – Capstone project applying the Higher Education Community Vendor Assessment Toolkit to vendor risk evaluation, built with Razor Pages, MySQL, and Azure  
+- [Debt Snowball Calculator](https://github.com/JenniferLopez07/snowball-debt-calculator) – A Python tool for financial planning and debt payoff visualization  
+- [Codecademy Practice Projects](https://www.codecademy.com/profiles/jenniferLopez1725551152) – Learning exercises in Python & JavaScript  
+- [TryHackMe](https://github.com/JenniferLopez07/tryhackme-writeups) & [HackTheBox](https://github.com/JenniferLopez07/hackthebox-writeups) Write-Ups – Documenting cybersecurity labs and CTF challenges  
 - Future: Cybersecurity mini-projects (log analysis, password strength checker, encryption demos)
 
 ---
