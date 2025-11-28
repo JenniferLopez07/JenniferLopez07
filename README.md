@@ -1,14 +1,18 @@
 # Hi, I'm Jennifer 👋
 
-🔐 **Cybersecurity & Computer Forensics Enthusiast**   
-📚 Relearning coding and applying it to real-world problems  
-⚡ Passionate about digital investigations, problem-solving, and lifelong learning
-🌱 Exploring projects in cybersecurity and forensics
+🔐 Cybersecurity & Computer Forensics enthusiast  
+📚 Relearning coding (Python, JavaScript, C#) and expanding into web development with Razor Pages  
+⚡ Passionate about problem-solving, digital investigations, and vendor risk assessment  
+🌱 Building projects that connect cybersecurity, forensics, finance, and automation  
+🎓 Preparing to begin my Master's in Cybersecurity  
 
 ---
 
 ## 🛠️ Skills & Tools
-- Cybersecurity fundamentals
+- Python & JavaScript (beginner, improving daily)
+- C# with ASP.NET Core Razor Pages
+- Cybersecurity fundamentals (risk assessment, digital forensics, vendor compliance)
+- MySQL database design and querying
 - Process optimization & problem-solving
 - Research & self-learning
   
@@ -19,10 +23,18 @@
 ---
 
 ## 📂 Featured Projects
-*(More projects coming soon as I expand my coding portfolio!)*
+- [HECVAT Vendorwise](link) – Capstone project applying the Higher Education Community Vendor Assessment Toolkit to vendor risk evaluation, built with Razor Pages, MySQL, and Azure  
+- [Debt Snowball Calculator](link) – A Python tool for financial planning and debt payoff visualization  
+- [Codecademy Practice Projects](link) – Learning exercises in Python & JavaScript  
+- [TryHackMe & HackTheBox Write-Ups](link) – Documenting cybersecurity labs and CTF challenges  
+- Future: Cybersecurity mini-projects (log analysis, password strength checker, encryption demos)
 
 ---
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/jenniferlop/)
 - [Codecademy](https://www.codecademy.com/profiles/jenniferLopez1725551152)
+
+---
+
+✨ *I’m documenting my journey into cybersecurity and computer forensics — one project, one milestone at a time.*
